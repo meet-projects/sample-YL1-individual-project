@@ -8,8 +8,6 @@ for row in reader:
     if rownum == 0:
         header = row
     else:
-        for c in row:
-            print c
         print row
     rownum += 1
 
