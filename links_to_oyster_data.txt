@@ -1,0 +1,2 @@
+http://www.amstat.org/publications/jse/datasets/30oysters.dat.txt
+http://www.amstat.org/publications/jse/datasets/30oysters.txt
